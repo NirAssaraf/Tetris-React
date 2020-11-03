@@ -14,5 +14,5 @@ font-family: Pixel, Ariel, Helvetica, sans-serif;
 font-size: 1rem;
 outline: none;
 cursor: pointer;
-
+display: flex;
 `;
